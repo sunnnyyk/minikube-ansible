@@ -1,5 +1,5 @@
 - name: Minikube Setup
-  hosts: 34.214.103.196
+  hosts: webserver
   become: true
   vars:
     ansible_user: ubuntu
