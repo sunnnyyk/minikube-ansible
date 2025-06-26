@@ -1,5 +1,5 @@
 - name: Minikube Setup
-  hosts: localhost
+  hosts: 18.170.219.76
   become: true
   vars:
     ansible_user: ubuntu
